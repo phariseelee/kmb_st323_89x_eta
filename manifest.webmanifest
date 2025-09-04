@@ -1,7 +1,7 @@
 {
   "name": "KMB 89X ETA",
   "short_name": "89X ETA",
-  "start_url": "/89X_ETA.html",
+  "start_url": "/index.html",
   "scope": "/",
   "display": "standalone",
   "background_color": "#FFFFFF",
